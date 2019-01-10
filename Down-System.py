@@ -25,6 +25,7 @@ print "TEAM     : DOWN SYSTEM"
 print "Thanks   : All Member DOWN SYSTEM"
 print "Tingkat  : Newbie Berkarya"
 print "Facebook : Alvian Nurizal"
+print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
