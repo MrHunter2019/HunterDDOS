@@ -18,9 +18,9 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet Firewolf DDos Attack")
+os.system("figlet MrHunter DDos Attack")
 print
-print "Author   : FIREWOLF"
+print "Author   : MR.HUNTER"
 print "TEAM     : DOWN SYSTEM"
 print "Thanks   : All Member DOWN SYSTEM"
 print "Tingkat  : Newbie Berkarya"
